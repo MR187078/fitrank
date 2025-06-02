@@ -1,9 +1,9 @@
 import { View, Text } from 'react-native';
 
-export default function ExploreScreen() {
+export default function NotificationsScreen() {
   return (
     <View style={{ flex: 1, backgroundColor: '#121212', justifyContent: 'center', alignItems: 'center' }}>
-      <Text style={{ color: '#fff' }}>Explore Screen</Text>
+      <Text style={{ color: '#fff' }}>Alerts Screen</Text>
     </View>
   );
 }
